@@ -1,0 +1,65 @@
+body {
+	
+	background-size: 100% 100%;
+  
+    height: auto !important;
+    min-height:100%;
+	background-attachment:fixed;
+	background-size:100% 100%;
+	background: url(http://images7.alphacoders.com/422/422456.jpg)
+
+}
+.layer
+{
+	background-color:rgba(19, 13, 7,0.8);
+	margin-bottom:0;
+}
+html, body, #leaflet 
+{
+  padding-top:0;
+}
+.layer2
+{
+	opacity:0.3;
+	
+}
+.paragraph2
+{
+	font-family: 'Sigmar One', cursive;
+	color:white;
+}
+.vision
+{
+	color:#00ff99;
+	font-family: 'Sigmar One', cursive;
+	margin-bottom:0;
+	
+}
+.paragraph1
+{
+	font-family: 'Sigmar One', cursive;
+	color:white;
+	
+}
+#leaflet
+{	
+	position:relative;
+	height: 30em;
+	width:50em;
+	margin:auto;
+}
+p
+{
+	color:red;
+}
+.images
+{
+	width:90px;
+	height:90px;
+	border-radius:100%;
+	margin:auto
+}
+.fa-coffee
+{
+	color:#723838;
+}
