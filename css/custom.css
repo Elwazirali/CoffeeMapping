@@ -1,0 +1,17 @@
+.navbar-inverse
+{
+	color:red;
+}
+
+.navbar-brand
+{
+    color:red;
+    &:hover, &:focus { 
+      color: $colHighlight; }
+	  
+}
+
+.test
+{
+	color:blue;
+}
